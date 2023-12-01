@@ -22,25 +22,29 @@ def long_click(x, y, duration=2000):
 
 
 
+# write youtube subs here if you need a quick place to write
+
+# david hoffman
+# fresh and fit 
+# Andrew Huberman
+
 while i < total:
   # long click for hover over
-  long_click(300, 400, duration=3000)
+  long_click(691, 1030, duration=2000)
 
 
   
 
-  # Example short click on subsub
-  short_click(100, 200)
+  # Example short click on unsub
+  short_click(346, 1309)
 
 
 
+  time.sleep(1)
 
-
-
-  # click somewhere else on screen to reset the screen
-  short_click(100, 200)
 
   # update i 
   i+=1
+  print(i)
 
 
