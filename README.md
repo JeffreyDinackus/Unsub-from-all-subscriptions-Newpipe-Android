@@ -1,5 +1,7 @@
 # Purpose
 
+![video of script](./IMG_0040.3gp)
+
 To unsubscribe from all channels on newpipe on android phones without having to reset the app. This way, you'll keep all your playlists alive.
 
 It is reccomended that you back up your subs before running just in case.
