@@ -1,6 +1,6 @@
 # Purpose
 
-![video of script](./IMG_0040.mov)
+![video of script](./vid.gif)
 
 To unsubscribe from all channels on newpipe on android phones without having to reset the app. This way, you'll keep all your playlists alive.
 
